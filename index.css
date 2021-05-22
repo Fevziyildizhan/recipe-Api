@@ -1,0 +1,21 @@
+#form{
+    margin-left: 500px;
+    margin-top: 250px;
+}
+
+#main{
+    display:block;
+    margin-left: 200px;
+    margin-top: 50px;
+    
+}
+
+img{
+    display: table;
+    height: 250px;
+}
+
+h1{
+    display: table;
+    height: 50px;
+}
